@@ -4,11 +4,7 @@
  * and open the template in the editor.
  */
 package git;
-
-/**
- *
- * @author Xabier
- */
 public class NewMain {
-    
-}
+ public static void main(String[] args) {
+ System.out.println(Sumador.sumar (15f,4f));
+}}
